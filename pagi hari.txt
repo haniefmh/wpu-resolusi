@@ -5,3 +5,4 @@ Rencana besok di pagi hari:
 - Jalan pagi
 
 - Belajar Python
+- Belajar Javascript
