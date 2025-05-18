@@ -1,8 +1,8 @@
 Rencana besok di pagi hari:
+- Jalan pagi
+- Ngoding
 - Bangun pukul 4 pagi
 - Sholat subuh
-- Ngoding
-- Jalan pagi
 
 - Belajar Python
 - Belajar Javascript
